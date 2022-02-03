@@ -24,7 +24,7 @@ Content-Type: application/json
 PATCH  http://localhost:3000/user/1
 Content-Type: application/json
 Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OCwiaWF0IjoxNjQzNzQxMzYxLCJleHAiOjE2NDM5MTQxNjF9.9qZ_c4j-pF0wS2noGmXysML_On1TdqeUOnyc9Twm29U
-Cookie: sid=akmO3GLLt7iYGbt9GBdi7.R8f4K%2F0lQTFM%2BIMzzFE3zYvJp7Fpa2Yey61bp%2FOz5j4;
+Cookie: Token=akmO3GLLt7iYGbt9GBdi7.R8f4K%2F0lQTFM%2BIMzzFE3zYvJp7Fpa2Yey61bp%2FOz5j4;
 
 {
   "name": "John1",
